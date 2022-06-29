@@ -1,16 +1,16 @@
 site_draft:
-  id: ehf-payment-g1-docs-draft
+  id: ehf-payment-g2-docs-draft
   type: site
   path: target
   properties:
     domain: anskaffelser.dev
-    path: payment/g1/docs/draft
+    path: payment/g2/docs/draft
 
 site_current:
   mode: release
-  id: ehf-payment-g1-docs-current
+  id: ehf-payment-g2-docs-current
   type: site
   path: target
   properties:
     domain: anskaffelser.dev
-    path: payment/g1/docs/current
+    path: payment/g2/docs/current
